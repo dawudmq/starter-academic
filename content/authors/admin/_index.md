@@ -43,8 +43,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dawudmq
-- icon: folder-open
-  icon_pack: ai
+- icon: book-open
+  icon_pack: fas
   link: https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing
 
 # Link to a PDF of your resume/CV.
