@@ -26,6 +26,11 @@ education:
   courses:
   - course: BSc in Information Science
     institution: Peking University
+    
+Publications overview:
+- Natural language processing
+- Data mining and knowledge discovery
+- Machine learning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
