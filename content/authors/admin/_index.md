@@ -12,7 +12,6 @@ superuser: true
 organizations:
 - name: Peking University
 
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are natural language processing, data mining and knowledge discovery, machine learning.
 
@@ -27,7 +26,6 @@ education:
   courses:
   - course: BSc in Information Science
     institution: Peking University
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +62,5 @@ highlight_name: false
 I am a senior undergraduate at Peking University, major in Information Science.
 
 My mission is to build a bridge between machine learning algorithms and logical reasoning, starting from natural language to design a conceptual system and reasoning method that conforms to human cognition, so as to form a highly generalized and transferable learning system.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/qiang_ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
 Read my Blogs: {{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}Google{{< /staticref >}}   {{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}石墨{{< /staticref >}}.
