@@ -43,8 +43,8 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dawudmq
-- icon: :open_book:
-  icon_pack: emoji
+- icon: comments
+  icon_pack: far
   link: https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing
 
 # Link to a PDF of your resume/CV.
@@ -64,4 +64,4 @@ I am a senior undergraduate at Peking University, major in Information Science.
 
 My mission is to build a bridge between machine learning algorithms and logical reasoning, starting from natural language to design a conceptual system and reasoning method that conforms to human cognition, so as to form a highly generalized and transferable learning system.
 
-# [{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.]
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
