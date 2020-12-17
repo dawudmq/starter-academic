@@ -67,4 +67,5 @@ My mission is to build a bridge between machine learning algorithms and logical 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/qiang_ma.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-If you are interested, here are some records about study and daily life：{{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}Google{{< /staticref >}}   {{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}石墨{{< /staticref >}}.
+If you are interested, here are some records about my study and daily life：
+{{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}Google{{< /staticref >}}   {{< staticref "https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing" "newtab" >}}石墨{{< /staticref >}}.
