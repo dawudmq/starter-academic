@@ -43,7 +43,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dawudmq
-- icon: :open_book:
+- icon: open_book
   icon_pack: emoji
   link: https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing
 
