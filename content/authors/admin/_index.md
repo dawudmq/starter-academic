@@ -39,11 +39,11 @@ social:
   link: 'maqiang_AT_pku_DOT_edu_DOT_cn'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.hk/citations?user=dbfSaCQAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
   link: https://github.com/dawudmq
-- icon: open-book
+- icon: :open_book:
   icon_pack: emoji
   link: https://drive.google.com/drive/folders/1AmhBDPRX6Am2sER44QdiDh2ZY1WSauJB?usp=sharing
 
@@ -55,12 +55,13 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+I am a senior undergraduate at Peking University, major in Information Science.
 
 My mission is to build a bridge between machine learning algorithms and logical reasoning, starting from natural language to design a conceptual system and reasoning method that conforms to human cognition, so as to form a highly generalized and transferable learning system.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
