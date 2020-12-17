@@ -10,8 +10,7 @@ headless: true
 weight: 30
 
 title: Skills
-# subtitle:
-interests:
+subtitle:
 - Natural language processing
 - Data mining and knowledge discovery
 - Machine learning
